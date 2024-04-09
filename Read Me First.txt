@@ -1,0 +1,11 @@
+Please extract all files before beginning installation.  
+
+Please ensure that your ELMO document camera is not connected to the computer during installation.  
+
+
+1. Double click on "IM3_setup_x64.exe" to begin setup.  
+
+Once this is complete move to setup two if necessary.  
+
+2.  Open the "Driver Pack" folder and double click on "DriverSetup.exe" to begin driver setup. 
+NOTE:  This step is only necessary if you are using one of the following models: TT-02u, TT-02s, P10S, P30S, P10, P100, P100N, HV-110u, CO-10.
